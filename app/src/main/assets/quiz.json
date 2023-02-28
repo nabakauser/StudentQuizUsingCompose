@@ -1,0 +1,337 @@
+{
+  "quizTitle": "Anatomy Intro Assessment",
+  "status_code": 200,
+  "status": true,
+  "message": "Data retrieved",
+  "questions": [
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "01.",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "23467",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "7685",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "02.",
+      "text": "Question 02",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "2345",
+          "text": "Option 1",
+          "answer": false
+        }, {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "9087",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "03.",
+      "text": "Question 03",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "4563",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "7589",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "04.",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "111",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "222",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "05.",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "1",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "2",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "11.",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "11",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "22",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "06.",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "111",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "222",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "07.",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "333",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "444",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "08.",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "33",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "44",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "09.",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "3",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "4",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "10.",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "5",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "6",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    }
+  ]
+}
